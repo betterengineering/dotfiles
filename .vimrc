@@ -1,6 +1,7 @@
 syntax on
 set number
-set colorcolumn=80
+set colorcolumn=81
+highlight ColorColumn ctermbg=3
 
 " Disable arrow keys.
 noremap <Up> <NOP>
